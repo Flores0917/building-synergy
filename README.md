@@ -35,8 +35,8 @@ The following are examples of possible synergies:
 
 ### Offices for support of other offices
 
--
--
+- Doctors office
+- Principals office
 -
 
 ### Both/in-between
