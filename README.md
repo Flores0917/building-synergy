@@ -39,7 +39,7 @@ The following are examples of possible synergies:
 -
 
 ### Both/in-between
-
+- Fill in text cause I dont feel like thinking right now
 -
 -
 
