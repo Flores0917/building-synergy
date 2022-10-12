@@ -28,10 +28,9 @@ The following are examples of possible synergies:
 
 
 ### Offices that provide a public service
-
--
--
--
+-Local post offices 
+-Police stations
+- 
 
 ### Offices for support of other offices
 
